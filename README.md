@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there 👋 I'm Peter.
+
+I'm a Software Developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+
+I am experienced with Ruby on Rails, TypeScript, React, and Next.js.
+
+I've worked in eCommerce for [Carwow](https://carwow.co.uk) and [Ooni](https://ooni.com), the Care Industry for [CareSourcer](https://www.caresourcer.com/), and FinTech for [Experian](https://www.experian.co.uk/) and Castlight Financial.
 
 <!--
 **iceMinas/iceMinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
